@@ -364,8 +364,8 @@ client.on('message', (message) => {
             });
     }
 });
-bot.login('OTgyNzE0MjE0MDU1NTYzMzM1.Gg_Q6V.xc1ZXPhTFj0D_jHbjGq7-iKsNZyWowOaIJFoks');
-client.login('OTgyNzE0MjE0MDU1NTYzMzM1.Gg_Q6V.xc1ZXPhTFj0D_jHbjGq7-iKsNZyWowOaIJFoks') // токен вашего бота
+bot.login('OTgyNzE0MjE0MDU1NTYzMzM1.GxIjmm.nFsV9ZDxRhtE2dBlaIrHS0YGnLArLU_biIGSnk');
+client.login('OTgyNzE0MjE0MDU1NTYzMzM1.GxIjmm.nFsV9ZDxRhtE2dBlaIrHS0YGnLArLU_biIGSnk') // токен вашего бота
 client.login(process.env.token);
 bot.login(process.env.tokenm);
 // Хотите, чтобы ваш бот работал 24/7 бесплатно? Смотрите это видео: https://www.youtube.com/watch?v=wxdl4QK0am4
